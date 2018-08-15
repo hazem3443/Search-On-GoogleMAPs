@@ -17,7 +17,7 @@ this folder include all images used for markers and infowindow.
 this folder include **styles.css** which have some styles for fonts and sizes for the side bar
 * **js**:rugby_football:
 this foler include many files written with JavaScript
-  * **Maperror.hs** :snowboarder:
+  * **maperror.hs** :snowboarder:
   this file has a function for displaying an error message when any failure occure to the map
   * **app.js** :surfer:
   this file has a javascript code that handles all features in our app which is:gem:
